@@ -1,0 +1,1 @@
+Bu arduino projesi arduinodaki Ir kütüphanesinin güncellenmesi sonucunda çalışmayan bazı kodların değiştiği yeni kodlarla yazılmış bir örnek uygulamadır. Eğer ek kodların ne ,le değiştiğini merak ediyor ve kendizi bu konu hakkında bilgilendirmek için arduinonun resmi github hesabına bir göz atabilirisiniz.
